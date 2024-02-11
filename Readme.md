@@ -1,5 +1,6 @@
 My NestJS project stureture just base on seperate everything to small part by using microservices and module concepts.
 
+```
 project-structure-example
 ├── api-gateway
 │   └── src
@@ -37,4 +38,5 @@ project-structure-example
         │   └── app.module.ts
         ├── Dockerfile    
         ├── package.json
-        └── tsconfig.json                   
+        └── tsconfig.json
+```                   
